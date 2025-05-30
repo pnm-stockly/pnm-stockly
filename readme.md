@@ -19,7 +19,7 @@ Currently working at **[Stockly](https://www.stockly.ai/)**, where we're revolut
 
 ## 🚀 Side Projects
 
-**[Typhon](https://typhon-ci.org/)** - A Nix-based continuous integration system that I'm actively developing. Building the future of reproducible CI/CD! 🐍⚡
+**[Typhon](https://typhon-ci.org/)** - A Nix-based continuous integration system. Building the future of reproducible CI/CD! 🐍⚡
 
 ## 🎯 When I'm not coding
 
